@@ -1,0 +1,14 @@
+D:\Dev\Ricardo\TesteGeral\bin\Debug\netcoreapp3.1\TesteGeral.exe
+D:\Dev\Ricardo\TesteGeral\bin\Debug\netcoreapp3.1\TesteGeral.deps.json
+D:\Dev\Ricardo\TesteGeral\bin\Debug\netcoreapp3.1\TesteGeral.runtimeconfig.json
+D:\Dev\Ricardo\TesteGeral\bin\Debug\netcoreapp3.1\TesteGeral.runtimeconfig.dev.json
+D:\Dev\Ricardo\TesteGeral\bin\Debug\netcoreapp3.1\TesteGeral.dll
+D:\Dev\Ricardo\TesteGeral\bin\Debug\netcoreapp3.1\TesteGeral.pdb
+D:\Dev\Ricardo\TesteGeral\obj\Debug\netcoreapp3.1\TesteGeral.csproj.AssemblyReference.cache
+D:\Dev\Ricardo\TesteGeral\obj\Debug\netcoreapp3.1\TesteGeral.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Ricardo\TesteGeral\obj\Debug\netcoreapp3.1\TesteGeral.AssemblyInfoInputs.cache
+D:\Dev\Ricardo\TesteGeral\obj\Debug\netcoreapp3.1\TesteGeral.AssemblyInfo.cs
+D:\Dev\Ricardo\TesteGeral\obj\Debug\netcoreapp3.1\TesteGeral.csproj.CoreCompileInputs.cache
+D:\Dev\Ricardo\TesteGeral\obj\Debug\netcoreapp3.1\TesteGeral.dll
+D:\Dev\Ricardo\TesteGeral\obj\Debug\netcoreapp3.1\TesteGeral.pdb
+D:\Dev\Ricardo\TesteGeral\obj\Debug\netcoreapp3.1\TesteGeral.genruntimeconfig.cache
