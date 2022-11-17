@@ -1,6 +1,6 @@
-**<center>Estudo Using static e nameOf**</center>
+**<center>Estudo Using static e nameOf</center>**
 
- **<center>using static** </center>
+ **<center>using static</center>** 
 Para deixar o código mais simples e de fácil entendimento, podemos declarar os namespaces como 
 estáticos (static),o que facilita o uso dos métodos nos códigos.<br>
 
@@ -26,7 +26,7 @@ using static System.Console;
 ```
 Até mesmo no intellisense quando está digitando o código já aparece os métodos.<br><br>
 
-**<center> Uso de nameOf no operador (paramêtro)** </center>
+**<center>Uso de nameOf no operador (paramêtro)</center>**
 
 Em certos casos onde temos diversas chamadas de métodos passando parâmetros, muitas vezes podem 
 ocorrer erros, valores inválidos ou nulos, fórmulas erradas, etc. E, na maioria das vezes a 
